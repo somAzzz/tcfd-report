@@ -8,8 +8,8 @@ A self-contained interactive HTML showcasing a production NLP system for
 climate-related financial disclosure (TCFD) analysis of A-share annual reports.
 
 Built on: 2026-06-19
-Report size: 3909.0 KB
-Test count: 325 passing
+Report size: 3914.4 KB
+Test count: 329 passing
 
 ## How to view locally
 
