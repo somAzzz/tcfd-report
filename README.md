@@ -9,7 +9,7 @@ climate-related financial disclosure (TCFD) analysis of A-share annual reports.
 
 Built on: 2026-06-19
 Report size: 3841.7 KB
-Test count: 365 passing
+Test count: 366 passing
 
 ## How to view locally
 
