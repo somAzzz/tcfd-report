@@ -1,15 +1,15 @@
 # TCFD Project Demo
 
-**Live demo URL**: https://somAzzz.github.io/tcfd-report/
+**Live demo URL**: https://<username>.github.io/tcfd-hr-report/
 
 ## What's in this report
 
 A self-contained interactive HTML showcasing a production NLP system for
 climate-related financial disclosure (TCFD) analysis of A-share annual reports.
 
-Built on: 2026-06-18
-Report size: 372.5 KB
-Test count: 234 passing
+Built on: 2026-06-19
+Report size: 384.5 KB
+Test count: 235 passing
 
 ## How to view locally
 
@@ -17,7 +17,7 @@ Open `index.html` in any modern browser. Loads Plotly and Mermaid from CDN.
 
 ## Deploying to GitHub Pages
 
-1. Create a new **public** repo: `tcfd-report`
+1. Create a new **public** repo: `tcfd-hr-report`
 2. Push: `index.html`, `README.md`, `.nojekyll`
 3. Settings → Pages → Branch: `main`, Folder: `/ (root)` → Save
 
