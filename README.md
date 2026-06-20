@@ -7,9 +7,9 @@
 A self-contained interactive HTML showcasing a production NLP system for
 climate-related financial disclosure (TCFD) analysis of A-share annual reports.
 
-Built on: 2026-06-19
-Report size: 3841.8 KB
-Test count: 366 passing
+Built on: 2026-06-20
+Report size: 3865.0 KB
+Test count: 375 passing
 
 ### Sections
 
@@ -29,12 +29,12 @@ Test count: 366 passing
    dependency graph of the evaluation subpackage.
 
 All data is anonymized (company names are replaced with generic labels)
-and embedded in the HTML; nothing is fetched at runtime except Plotly and
-Mermaid from CDN.
+and embedded in the HTML; runtime libraries are loaded from ECharts, Alpine,
+Google Fonts, and Mermaid CDNs.
 
 ## How to view locally
 
-Open `index.html` in any modern browser. Loads Plotly and Mermaid from CDN.
+Open `index.html` in any modern browser.
 
 ## Development
 
@@ -58,7 +58,7 @@ The build script:
 - Runs `pytest --collect-only` to fill the "Test count" stat
 - Discovers the evaluation subpackage module graph via AST
 - Assembles 4 ECharts options (sunburst / streamgraph / network / sankey)
-  + 1 AI Pipeline dashboard + 1 module graph SVG
+  + 1 AI Pipeline dashboard + 1 module graph
 - Renders the Jinja2 template with all data inlined (single-file HTML)
 - Auto-runs the leakage check and exits 1 if it fails
 
