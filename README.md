@@ -10,8 +10,8 @@ TCFD-related language from A-share annual reports across policy, market, and
 technology dimensions.
 
 Built on: 2026-06-20
-Report size: 3645.5 KB
-Test count: 385 passing
+Report size: 3645.6 KB
+Test count: 386 passing
 
 ## Key Numbers
 
