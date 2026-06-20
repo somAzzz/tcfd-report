@@ -10,7 +10,7 @@ TCFD-related language from A-share annual reports across policy, market, and
 technology dimensions.
 
 Built on: 2026-06-20
-Report size: 3877.8 KB
+Report size: 2555.4 KB
 Test count: 379 passing
 
 ## Key Numbers
@@ -30,11 +30,11 @@ technology-transition language rises strongly in recent years.
 
 Top co-occurring keyword pairs:
 
-- `环保 / 风险` (Environmental Protection / Risk) — 12,906 mentions
-- `能耗 / 降低` (Energy Consumption / Reduction) — 7,881 mentions
-- `淘汰 / 淘汰落后` (Phase-Out / Backward Capacity Phase-Out) — 6,372 mentions
-- `环保 / 降低` (Environmental Protection / Reduction) — 6,170 mentions
-- `环保 / 趋严` (Environmental Protection / Tightening Regulation) — 5,823 mentions
+- `Environmental Protection / Risk` (Top co-occurring disclosure terms) — 12,906 mentions
+- `Energy Consumption / Reduction` (Top co-occurring disclosure terms) — 7,881 mentions
+- `Phase-Out / Backward Capacity Phase-Out` (Top co-occurring disclosure terms) — 6,372 mentions
+- `Environmental Protection / Reduction` (Top co-occurring disclosure terms) — 6,170 mentions
+- `Environmental Protection / Tightening Regulation` (Top co-occurring disclosure terms) — 5,823 mentions
 
 ## What's in the Report
 
