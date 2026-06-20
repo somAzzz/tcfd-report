@@ -1,6 +1,6 @@
 # Climate Risk Intelligence from 10,814 Chinese Annual Reports
 
-**Live demo URL**: https://somAzzz.github.io/tcfd-report/
+**Live demo URL**: https://somazzz.github.io/tcfd-report/
 
 ## Project Snapshot
 
@@ -10,7 +10,7 @@ TCFD-related language from A-share annual reports across policy, market, and
 technology dimensions.
 
 Built on: 2026-06-20
-Report size: 3870.6 KB
+Report size: 3877.8 KB
 Test count: 379 passing
 
 ## Key Numbers
