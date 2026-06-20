@@ -10,7 +10,7 @@ TCFD-related language from A-share annual reports across policy, market, and
 technology dimensions.
 
 Built on: 2026-06-20
-Report size: 2329.0 KB
+Report size: 3645.5 KB
 Test count: 385 passing
 
 ## Key Numbers
@@ -30,11 +30,11 @@ technology-transition language rises strongly in recent years.
 
 Top co-occurring keyword pairs:
 
-- `Environmental Protection / Risk` (Top co-occurring disclosure terms) — 12,906 mentions
-- `Energy Consumption / Reduction` (Top co-occurring disclosure terms) — 7,881 mentions
-- `Phase-Out / Backward Capacity Phase-Out` (Top co-occurring disclosure terms) — 6,372 mentions
-- `Environmental Protection / Reduction` (Top co-occurring disclosure terms) — 6,170 mentions
-- `Environmental Protection / Tightening Regulation` (Top co-occurring disclosure terms) — 5,823 mentions
+- `Environmental Protection / Risk` (12,906 records link this pair as risk language in management discussion.) — 12,906 mentions
+- `Energy Consumption / Reduction` (7,881 records link this pair as transition and decarbonization activity.) — 7,881 mentions
+- `Phase-Out / Backward Capacity Phase-Out` (6,372 records link this pair as recurring climate-disclosure language.) — 6,372 mentions
+- `Environmental Protection / Reduction` (6,170 records link this pair as recurring climate-disclosure language.) — 6,170 mentions
+- `Environmental Protection / Tightening Regulation` (5,823 records link this pair as compliance and regulatory pressure.) — 5,823 mentions
 
 ## What's in the Report
 
